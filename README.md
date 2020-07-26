@@ -47,3 +47,17 @@
    - Sprint 1 : Wrote server-side code using Django and Django-channels and followed TDD to test written code using test asyncio coroutines(pytest). Used WebSockets to send messages to the UI from the server.
    - Sprint 2 : Implemented client-side using React along with authentication and authorization. Used Docker to implement production ready code-base. Implemented end-to-end tests to confirm code is working as expected.
    - Sprint 3 : Advanced client-side and integreted with the Google Cloud Platform for real-time tracking.
+
+## Sample Screenshot: - 
+
+| ![Login_Page_Rider_Driver.jpg](https://user-images.githubusercontent.com/47191969/88490211-2cdce580-cf57-11ea-8045-70d2bfc198a1.png) | 
+|:--:| 
+| *Login Page for Rider and Driver* |
+
+| ![Ride_Request.jpg](https://user-images.githubusercontent.com/47191969/88490260-93620380-cf57-11ea-9952-883c726d4ef5.png) | 
+|:--:| 
+| *Ride Request Demo* |
+
+| ![Unit_Test_Example.jpg](https://user-images.githubusercontent.com/47191969/88490275-b7254980-cf57-11ea-9d1f-862e57b60adc.png) | 
+|:--:| 
+| *Unit Test Example* |
