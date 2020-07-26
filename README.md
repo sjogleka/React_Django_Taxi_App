@@ -50,14 +50,14 @@
 
 ## Sample Screenshot: - 
 
-| ![Login_Page_Rider_Driver.jpg](https://user-images.githubusercontent.com/47191969/88490211-2cdce580-cf57-11ea-8045-70d2bfc198a1.png) | 
+| ![Login_Page_Rider_Driver.jpg](https://user-images.githubusercontent.com/47191969/88490419-b7721480-cf58-11ea-8f71-79f24b2d3d02.png) | 
 |:--:| 
 | *Login Page for Rider and Driver* |
 
-| ![Ride_Request.jpg](https://user-images.githubusercontent.com/47191969/88490260-93620380-cf57-11ea-9952-883c726d4ef5.png) | 
+| ![Ride_Request.jpg](https://user-images.githubusercontent.com/47191969/88490435-c8228a80-cf58-11ea-8c29-2cc263a892e8.png) | 
 |:--:| 
 | *Ride Request Demo* |
 
-| ![Unit_Test_Example.jpg](https://user-images.githubusercontent.com/47191969/88490275-b7254980-cf57-11ea-9d1f-862e57b60adc.png) | 
+| ![Unit_Test_Example.jpg](https://user-images.githubusercontent.com/47191969/88490440-d40e4c80-cf58-11ea-8c97-d5435c18b8a4.png) | 
 |:--:| 
 | *Unit Test Example* |
